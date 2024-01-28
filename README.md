@@ -19,7 +19,7 @@
 7. 	Spring JPA	-> DB Connection and Transaction Management 
 8. 	Maven		-> Dependency Management
 9. 	Lombok		-> Logging
-A. 	Draw.io		-> Entity Relationship Diagram creation	
+10.	Draw.io		-> Entity Relationship Diagram creation	
 
 ##Features:
 
